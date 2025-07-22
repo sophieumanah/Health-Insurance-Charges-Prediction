@@ -1,11 +1,12 @@
 #  Predicting Health Insurance Charges with Regression Models
 
+![](insurance.png)
 
-Hi, in this project, I dive into the world of health insurance and build solid regression models to predict **insurance charges** based on a person’s age, lifestyle, and health indicators.
+Hi, in this project, I dived into the world of health insurance and built solid regression models to predict **insurance charges** based on a person’s age, lifestyle, and health indicators.
 
 The idea is simple: given a set of demographic and health-related attributes, how accurately can I predict the insurance charges for an individual?
 
-The notebook walks through a complete workflow — from loading and cleaning the data to exploring, modeling, and selecting the best predictive approach. Whether you're learning, hiring, or just curious, you’ll get a full picture of practical regression modelling here.
+The Jupyter Notebook walks through a complete workflow, from loading and cleaning the data to exploring, modelling, and selecting the best predictive approach. Whether you're learning, hiring, or just curious, you’ll get a full picture of practical regression modelling here.
 
 ---
 
